@@ -67,7 +67,7 @@
 	</build>
 	<distributionManagement>
 	<repository>
-		<id>Release</id>
+		<id>deploymentrepo</id>
 		<name>deployrel</name>
 		<url>http://35.185.51.84:8081/repository/maven-releases/</url>
 	</repository>
