@@ -69,13 +69,13 @@
 	<repository>
 		<id>Release</id>
 		<name>deployrel</name>
-		<url>http://35.185.51.84:8081/repository/deployrel/</url>
+		<url>http://35.185.51.84:8081/repository/maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>Snapshot</id>
 		<name>deploysnap</name>
-		<url>http://35.185.51.84:8081/repository/deploysnap/</url>
+		<url>http://35.185.51.84:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 </distributionManagement>
 
